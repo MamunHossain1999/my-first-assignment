@@ -67,3 +67,208 @@ body{
 }
 /* end header-area section style */
 
+/* web develop-section style start here */
+.web-section{
+    max-width: 1440px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 74px;
+
+}
+
+.web-section h2{
+    width: 852px;
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.web-section p{
+    width: 852px;
+    color: rgb(13, 19, 33);
+    margin-top: 24px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: justify;
+    opacity: 0.7;
+}
+/* web-develop-section style end here */
+
+/* the world-section style start here */
+.world-section{
+    width: 850px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 96px;
+
+    
+}
+.world-section .left-aside{
+    width: 477px;
+    
+
+   
+}
+
+.world-section .left-aside h2{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    margin-bottom: 16px;
+   
+}
+
+.world-section .left-aside p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    
+    opacity: 0.7;
+}
+
+.world-section .left-aside .btn2 button{
+    margin-top: 32px;
+    padding: 12px 20px 12px 20px;
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.right-img-section{
+     width: 259.56px;
+    height: 217.01px;
+    margin-left: 99.77px;
+   
+}
+/* the world-section style end here */
+
+/* web system style start here */
+
+.web-section1{
+    width: 850px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 96px;   
+}
+.left-img-section1{
+    width: 223.2px;
+    height: 208.85px;
+    margin-right: 48px; 
+  
+} 
+ .web-section1 .right-side h2{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    margin-bottom: 16px;
+   
+} 
+
+ .web-section1 .right p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    opacity: 0.7;
+}
+
+.web-section1 .btn2 button{
+    margin-top: 32px;
+    padding: 12px 20px 12px 20px;
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    margin-right: 101px;
+}
+
+
+.web-section1 .right{
+    width: 477px;
+  
+}
+
+/* web system style end here */
+
+.world-section{
+    width: 850px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 96px;
+
+    
+}
+.world-section .left-aside{
+    width: 477px;
+}
+
+.world-section .left-aside h2{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    margin-bottom: 16px;
+   
+}
+
+.world-section .left-aside p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    
+    opacity: 0.7;
+}
+
+.world-section .left-aside .btn2 button{
+    margin-top: 32px;
+    padding: 12px 20px 12px 20px;
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.right-img-section{
+     width: 259.56px;
+    height: 217.01px;
+    margin-left: 99.77px;
+   
+}
+
+/* my inspiration section style start here */
+.my-section{
+    width: 852px;
+    height: 133px;
+    margin: 0 auto;
+    margin-top: 168px;
+    text-align: center;
+}
+.my-section h2{
+    width: 852px;
+    margin: 0 auto;
+    font-size: 32px;
+    font-weight: 800;
+    color: rgb(13, 19, 33);
+}
+
+.my-section p{
+    width: 852px;
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    
+    margin: 0 auto;
+    margin-top: 24px;
+    
+}
+
+/* my inspiration section style end here */

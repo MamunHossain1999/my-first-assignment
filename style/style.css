@@ -62,8 +62,11 @@ body{
     margin-top: 32px;
 }
 .banner-section .btn-section button a{
-   
-    
+   text-decoration: none;
+   color: rgb(255, 255, 255);
+   font-size: 20px;
+   font-weight: 600;
+  
 }
 /* end header-area section style */
 
@@ -189,7 +192,9 @@ body{
     font-weight: 400;
     margin-right: 101px;
 }
-
+.web-section1 .btn2 button a{
+    text-decoration: none;
+}
 
 .web-section1 .right{
     width: 477px;
@@ -235,7 +240,9 @@ body{
     font-size: 16px;
     font-weight: 400;
 }
-
+.world-section .left-aside .btn2 button a{
+    text-decoration: none;
+}
 .right-img-section{
      width: 259.56px;
     height: 217.01px;
@@ -273,7 +280,7 @@ body{
 .video-section{
     text-align: center;
     margin-top: 48px;
-    padding: 32px;
+
 }
 
 
@@ -485,4 +492,8 @@ body{
     border: 1px solid rgba(13, 19, 3, 3, 0, 15);
     font-size: 16px;
     font-weight: 400;
+}
+
+.footer-section .footer-input button a{
+    text-decoration: none;
 }

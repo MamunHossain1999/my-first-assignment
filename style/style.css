@@ -248,7 +248,7 @@ body{
     width: 852px;
     height: 133px;
     margin: 0 auto;
-    margin-top: 168px;
+    margin-top: 130px;
     text-align: center;
 }
 .my-section h2{
@@ -265,10 +265,155 @@ body{
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
-    
     margin: 0 auto;
     margin-top: 24px;
     
 }
 
+.video-section{
+    text-align: center;
+    margin-top: 48px;
+    padding: 32px;
+}
+
+
+/* card header-section */
+.card-header-section{
+    width: 852px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+.card-header-section .card-title{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    text-align: center;
+}
+
+.card-header-section .card-header-desc{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    margin-top: 24px;
+}
+.card-section{
+    width: 1140px;
+    height: 299px;
+    margin: 0 auto;
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around; 
+    margin-top: 40px;
+   
+}
+
+.card-section .card1{
+    width: 364px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05); 
+    padding: 40px; 
+}
+
+.card1 .card-img{
+    width: 12.45px; 
+    height: 28.12px;  
+    margin-bottom: 35px;  
+}
+
+.card1 .card-title{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 40px; 
+    margin-top: 10px;
+}
+
+.card1 .card-desc{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 10px;
+    margin-bottom: 24px;
+}
+
+.card1 a{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.card-section .card2{
+    width: 364px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+    padding: 40px;
+}
+
+.card2 .card-img{
+    width: 12.45px; 
+    height: 28.12px;  
+    margin-bottom: 35px;  
+}
+
+.card2 .card-title{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 40px; 
+    margin-top: 10px;
+}
+
+.card2 .card-desc{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 10px;
+    margin-bottom: 24px;
+}
+
+.card2 a{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+}
+.card-section .card3{
+    width: 364px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+    padding: 40px;
+}
+
+.card3 .card-img{
+    width: 12.45px; 
+    height: 28.12px;  
+    margin-bottom: 35px;  
+}
+
+.card3 .card-title{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 40px; 
+    margin-top: 10px;
+}
+
+.card3 .card-desc{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 10px;
+    margin-bottom: 24px;
+}
+
+.card3 a{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+}
 /* my inspiration section style end here */

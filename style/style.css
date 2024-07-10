@@ -417,3 +417,72 @@ body{
     font-weight: 700;
 }
 /* my inspiration section style end here */
+
+
+/* footer-section style start here */
+.footer-section{
+    width: 1140px;
+    height: 313px;
+    margin: 0 auto;
+    background-image: url(../assets/handshake.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 16px;
+    margin-bottom: 30px;
+}
+
+
+.footer-section .footer-section-all{
+    width: 1140px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    
+}
+.footer-section .footer-section-all .footer-title{
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
+    margin-top: 64px;
+}
+
+.footer-section .footer-section-all .footer-desc{
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 16px;
+    margin-bottom: 30px;
+    opacity: 0.7;
+}
+
+.footer-section .footer-input{
+    width: 1140px;
+    text-align: center;
+    margin-top: 35px;
+    
+}
+
+.footer-section .footer-input input{
+    width: 548px;
+    height: 57px ;
+    padding: 19px 20px 19px 20px;
+    border-radius: 8px;
+    border: 1px solid rgba(13, 19, 3, 3, 0, 15);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.footer-section .footer-input button{
+    width: 90px;
+    height: 57px;
+    padding: 19px 20px 19px 20px;
+    border-radius: 8px;
+    border: 1px solid rgba(13, 19, 3, 3, 0, 15);
+    font-size: 16px;
+    font-weight: 400;
+}
